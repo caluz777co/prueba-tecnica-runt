@@ -1,4 +1,4 @@
-# prueba-tecnica-runt
+# Prueba Tecnica RUNT
 Prueba tecnica para el proceso de selección para el cargo de Desarrollador Junior
 
 # Proyecto Backend:
