@@ -6,3 +6,8 @@ Desarrollado con JAVA utilizando el framework de desarrollo Spring Boot, el IDE 
 
 # Proyecto Frontend:
 Desarrollado con Angular, se utlizo Bootstrap y Angular Material para los estilos.
+
+# Autor
+Carlos Andres Lopez Urbano
+tel: 3217845731
+correo: carlosandreslz777@gmail.com
